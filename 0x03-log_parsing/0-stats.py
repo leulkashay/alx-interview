@@ -2,6 +2,7 @@
 """
 Log parsing
 """
+import sys
 
 
 total_file_size = 0
