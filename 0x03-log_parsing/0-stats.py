@@ -10,7 +10,6 @@ status = ["200", "301", "400", "401", "403", "404", "405", "500"]
 obj = dict.fromkeys(status, 0)
 
 
-
 def printLogStat():
     """
     Log stats
