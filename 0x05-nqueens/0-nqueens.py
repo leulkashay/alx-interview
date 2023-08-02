@@ -23,6 +23,7 @@ if __name__ == "__main__":
     row = 0
     col = 0
     solutions = []
+    placed_queens = []
     stop = False
 
     #iterating through rows and columns
