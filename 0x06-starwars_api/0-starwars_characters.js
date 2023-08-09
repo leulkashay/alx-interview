@@ -22,7 +22,7 @@ const printCharacters = function(url, index) {
 	}
 
 	if(++index < url.length) {
-	    printcharacters(url, index++);
+	    printCharacters(url, index++);
 	}
     });
 };
